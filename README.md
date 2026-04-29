@@ -41,11 +41,11 @@ Native iOS AR prototype demonstrating AR Quick Look for placing and viewing 3D o
 
 Demonstrates core capabilities for:
 
-Previewing 3D products in real-world environments
-Rapid prototyping of AR object placement experiences
-Native iOS AR product visualization workflows
-Lightweight spatial viewing interfaces using Apple’s Quick Look
-USDZ-based asset presentation for retail, education, or design applications
+- Previewing 3D products in real-world environments
+- Rapid prototyping of AR object placement experiences
+- Native iOS AR product visualization workflows
+- Lightweight spatial viewing interfaces using Apple’s Quick Look
+- USDZ-based asset presentation for retail, education, or design applications
 
 ---
 
